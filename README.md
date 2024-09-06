@@ -1,8 +1,8 @@
 
 # Ayudantía Consumo APIs
 
-* **Fecha**: 5 de Abril del 2024
-* **Ayudantes**: Andrés Venegas - Victoria Jiménez
+* **Fecha**: 06 de septiembre del 2024
+* **Ayudantes**: Andrés Venegas - Gabriel Quiroz (feat la gran Victoria Jiménez)
 
 ## Actividad
 
